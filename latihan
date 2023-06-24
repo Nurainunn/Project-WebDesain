@@ -3,6 +3,10 @@
 <title>Belajar WebDesain</title>
 </head>
 <body>
-<h2>makanan enak</h2>
+<h2>makanan medan</h2>
+<ul>
+<li>bakso</li>
+<li>sooooto</li>
+</ul>
 </body>
 </html>
